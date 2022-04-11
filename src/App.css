@@ -1,0 +1,17 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+}
+
+
+body{
+  font-family: 'Inter', 'sans-serif';
+  scroll-behavior: smooth;
+
+}
+
+
+
